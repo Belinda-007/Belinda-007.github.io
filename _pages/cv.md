@@ -15,4 +15,4 @@ Education
 * B.S.E. in Computer Science and Engineering, University of Michigan, 2024
 * B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2024
 
-You can find my CV here. 
+You can find my CV [here](CV_yanran_update.pdf).
