@@ -21,7 +21,7 @@ repository               : "Belinda-007/Belinda-007.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-update.png"
+  avatar           : "profile-update-shape.png"
   name             : "Yanran Lin"
   pronouns         : "she/her"  
   bio              : "Ph.D. student in Computer Science"

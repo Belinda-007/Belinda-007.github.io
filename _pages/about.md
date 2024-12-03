@@ -39,7 +39,7 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-## Biography
+# Biography
 
 Hi, I'm Yanran Lin, a Ph.D. student in Computer Science at the University of Utah. My research focuses on augmented reality, neuroscience, and leveraging technology to study human interaction and cognitive processes. I earned my bachelor's degree in Computer Science from University of Michigan. During my undergraduate studies, I developed a strong interest in human-computer interaction and artificial intelligence, which eventually led me to pursue a Ph.D.
 
