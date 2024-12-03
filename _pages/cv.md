@@ -15,4 +15,4 @@ Education
 * B.S.E. in Computer Science and Engineering, University of Michigan, 2024
 * B.S.E. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2024
 
-You can find my CV [here](CV_yanran_update.pdf).
+You can find my CV [here](https://belinda-007.github.io/files/CV_yanran_update.pdf).
