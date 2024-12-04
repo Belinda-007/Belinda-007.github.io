@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Yanran Lin, a Ph.D. student in Computer Science at the University of Utah. My research focuses on augmented reality, neuroscience, and leveraging technology to study human interaction and cognitive processes. I earned my bachelor's degree in Computer Science from University of Michigan. During my undergraduate studies, I developed a strong interest in human-computer interaction and artificial intelligence, which eventually led me to pursue a Ph.D.
+Hi, I'm Yanran Lin, a first-year Ph.D. student in Computer Science at the University of Utah advised by Prof. Luis Garcia.  I am always passionate about research that combines technology and human-centered approaches, aiming to address real-world challenges. My current work focuses on leveraging augmented reality to design naturalistic environments for neuroscience experiments, exploring how AR can enhance the understanding of brain behavior in dynamic settings. These challenges have driven my broader interest in Augmented Reality, Mixed Reality Systems, Human-Computer Interaction, Context Awareness, Dynamic SLAM, and Neuro-Symbolic Modeling.
 
 # Publications
 
