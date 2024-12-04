@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "Toward Personalized Tour-Guide Robot: Adaptive Content Planner based on Visitor's Engagement"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
