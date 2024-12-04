@@ -12,4 +12,6 @@ Hi, I'm Yanran Lin, a Ph.D. student in Computer Science at the University of Uta
 # Publications
 
 Yanran Lin, Wonse Jo, Arsha Ali, Lionel P. Robert Jr., and Dawn M. Tilbury. 2024. Toward Personalized Tour-Guide Robot: Adaptive Content Planner based on Visitor’s Engagement. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’24).
-[Paper](https://belinda-007.github.io/files/published-paper.pdf.)
+
+
+[Paper Link](https://belinda-007.github.io/files/published-paper.pdf)
